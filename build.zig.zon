@@ -1,0 +1,6 @@
+.{
+    .name = "zig-java-interop",
+    .version = "0.0.0",
+    .dependencies = .{},
+    .paths = .{""},
+}
